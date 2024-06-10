@@ -1,0 +1,27 @@
+@{
+    ViewData["Title"] = "SelectPaquete";
+    
+}
+
+<header>
+    <h1>Seleccione su paquete</h1>
+  
+</header>
+<h2>La lista de los destinos es la siguiente:</h2>
+@for(int i = 0; i < ViewBag.Destinos.Count; i++){
+
+    <p>@ViewBag.Destinos[i]</p>
+}
+
+ <form action='@Url.Action("GuardarPaquete")'>
+    <nav>
+        <ul>
+         <h4>Numero Destino:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumDestino"> </li><br>
+         <h4>Numero Hotel:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumHotel"></li>  <br>
+         <h4>Numero Aereo:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumAereo"></li><br>
+         <h4>Numero Excursion:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumExcusrion"></li><br>
+         <li><input type="submit"></li>
+        </ul>
+    </nav> 
+</form>
+

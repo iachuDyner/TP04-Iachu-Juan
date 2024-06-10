@@ -5,5 +5,19 @@
 <div>
     <h1>Index</h1>
     <p>Bienvenidos al sitio web de NombreProyecto</p>
+    <a href='@Url.Action("SelectPaquete")'>Crear Paquete </a>
     
+
+    <ol>
+    @foreach (string a in ViewBag.DicPaquetes.Keys){
+
+<p>su destino es: @a</p>
+<p>su hotel es: </p><img src ="~/Img/HOTEL/@ViewBag.DicPaquetes[a].Hotel">
+<p>su Aereolinea es:</p><img src ="~/Img/AEREOLINEAS/@ViewBag.DicPaquetes[a].Aereo">
+<p>Su Excursion es:</p><img src ="~/Img/EXCURSIONES/@ViewBag.DicPaquetes[a].Excursion">
+
+
+
+    }
+
 </div>
