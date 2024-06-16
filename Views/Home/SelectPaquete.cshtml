@@ -15,11 +15,21 @@
 
  <form action='@Url.Action("GuardarPaquete")'>
     <nav>
+        
         <ul>
          <h4>Numero Destino:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumDestino"> </li><br>
          <h4>Numero Hotel:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumHotel"></li>  <br>
+        @for (int a = 1; a < ViewBag.DicPaquetes.Lenght; a++){
+        <img src ="~/Img/HOTEL/@ViewBag.DicPaquetes[a].Hotel">
+         }
          <h4>Numero Aereo:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumAereo"></li><br>
+         @for (int a = 1; a < ViewBag.DicPaquetes.Lenght; a++){
+        <img src ="~/Img/AEREOLINEAS/@ViewBag.DicPaquetes[a].Hotel">
+         }         
          <h4>Numero Excursion:</h4><li><input type="number" min= "@ViewBag.Minimo" max= "@ViewBag.Maximo" name="NumExcusrion"></li><br>
+         @for (int a = 1; a < ViewBag.DicPaquetes.Lenght; a++){
+        <img src ="~/Img/EXCURSIONES/@ViewBag.DicPaquetes[a].Hotel">
+         }
          <li><input type="submit"></li>
         </ul>
     </nav> 

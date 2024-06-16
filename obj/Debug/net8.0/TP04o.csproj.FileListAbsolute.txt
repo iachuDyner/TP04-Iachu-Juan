@@ -27,3 +27,32 @@ Z:\TP04-Dyner-Rozenbeim\TP04o\obj\Debug\net8.0\refint\TP04o.dll
 Z:\TP04-Dyner-Rozenbeim\TP04o\obj\Debug\net8.0\TP04o.pdb
 Z:\TP04-Dyner-Rozenbeim\TP04o\obj\Debug\net8.0\TP04o.genruntimeconfig.cache
 Z:\TP04-Dyner-Rozenbeim\TP04o\obj\Debug\net8.0\ref\TP04o.dll
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\appsettings.Development.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\appsettings.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.staticwebassets.runtime.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.exe
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.deps.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.runtimeconfig.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.dll
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\bin\Debug\net8.0\TP04o.pdb
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.AssemblyInfoInputs.cache
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.AssemblyInfo.cs
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.csproj.CoreCompileInputs.cache
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.MvcApplicationPartsAssemblyInfo.cache
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.RazorAssemblyInfo.cache
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.RazorAssemblyInfo.cs
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.sourcelink.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets.build.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets.development.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets\msbuild.TP04o.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets\msbuild.build.TP04o.props
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP04o.props
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP04o.props
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\scopedcss\bundle\TP04o.styles.css
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.dll
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\refint\TP04o.dll
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.pdb
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\TP04o.genruntimeconfig.cache
+D:\TP prog-Dyner_Rozenbeim\TP04-Iachu-Juan\obj\Debug\net8.0\ref\TP04o.dll

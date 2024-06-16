@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CSQqcsba9tD7jWWzroEey3wsVWiHpdOdJr1OXDm6BKU=",
+  "Hash": "PhzRAn0EaqT9V9RBrrzWPL6PbHYE1bHA5yKgZNNRUCI=",
   "Source": "TP04o",
   "BasePath": "_content/TP04o",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP04o\\wwwroot",
       "Source": "TP04o",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\css\\site.css",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\css\\site.css",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\favicon.ico",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\favicon.ico",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas1.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas1.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas1.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas1.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas10.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas10.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas10.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas10.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas2.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas2.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas2.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas2.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas3.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas3.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas3.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas3.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas4.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas4.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas4.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas4.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas5.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas5.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas5.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas5.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas6.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas6.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas6.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas6.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas7.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas7.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas7.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas7.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas8.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas8.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas8.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas8.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas9.png",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\AEREOLINEAS\\Aereolineas9.png",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/AEREOLINEAS/Aereolineas9.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\AEREOLINEAS\\Aereolineas9.png"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion1.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion1.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion1.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion1.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion10.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion10.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion10.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion10.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion2.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion2.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion2.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion3.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion3.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion3.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion3.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion4.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion4.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion4.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion4.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion5.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion5.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion5.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion5.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion6.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion6.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion6.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion6.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion7.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion7.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion7.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion7.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion8.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion8.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion8.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion8.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\EXCURSIONES\\excursion9.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\EXCURSIONES\\excursion9.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/EXCURSIONES/excursion9.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\EXCURSIONES\\excursion9.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel1.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel1.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel1.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel10.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel10.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel10.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel10.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel2.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel2.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel2.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel2.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel3.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel3.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel3.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel4.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel4.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel4.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel5.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel5.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel5.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel5.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel6.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel6.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel6.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel6.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel7.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel7.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel7.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel7.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel8.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel8.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel8.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel8.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Hotel9.jpg",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Hotel9.jpg",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Hotel9.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Hotel9.jpg"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Img\\HOTEL\\Thumbs.db",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Img\\HOTEL\\Thumbs.db",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Img/HOTEL/Thumbs.db",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Img\\HOTEL\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\js\\site.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\js\\site.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\Thumbs.db",
+      "Identity": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\Thumbs.db",
       "SourceId": "TP04o",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP04-Dyner-Rozenbeim\\TP04o\\wwwroot\\",
+      "ContentRoot": "D:\\TP prog-Dyner_Rozenbeim\\TP04-Iachu-Juan\\wwwroot\\",
       "BasePath": "_content/TP04o",
       "RelativePath": "Thumbs.db",
       "AssetKind": "All",
